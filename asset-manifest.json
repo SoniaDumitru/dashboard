@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.f9339f36.chunk.css",
+    "main.js": "/dashboard/static/js/main.edae0df6.chunk.js",
+    "main.js.map": "/dashboard/static/js/main.edae0df6.chunk.js.map",
+    "runtime-main.js": "/dashboard/static/js/runtime-main.2ec0fa51.js",
+    "runtime-main.js.map": "/dashboard/static/js/runtime-main.2ec0fa51.js.map",
+    "static/css/2.605e993d.chunk.css": "/dashboard/static/css/2.605e993d.chunk.css",
+    "static/js/2.49b1095e.chunk.js": "/dashboard/static/js/2.49b1095e.chunk.js",
+    "static/js/2.49b1095e.chunk.js.map": "/dashboard/static/js/2.49b1095e.chunk.js.map",
+    "index.html": "/dashboard/index.html",
+    "precache-manifest.d1db2b2da838f6ce3a0d33dbcca5009e.js": "/dashboard/precache-manifest.d1db2b2da838f6ce3a0d33dbcca5009e.js",
+    "service-worker.js": "/dashboard/service-worker.js",
+    "static/css/2.605e993d.chunk.css.map": "/dashboard/static/css/2.605e993d.chunk.css.map",
+    "static/css/main.f9339f36.chunk.css.map": "/dashboard/static/css/main.f9339f36.chunk.css.map",
+    "static/js/2.49b1095e.chunk.js.LICENSE.txt": "/dashboard/static/js/2.49b1095e.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.css": "/dashboard/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ec0fa51.js",
+    "static/css/2.605e993d.chunk.css",
+    "static/js/2.49b1095e.chunk.js",
+    "static/css/main.f9339f36.chunk.css",
+    "static/js/main.edae0df6.chunk.js"
+  ]
+}
